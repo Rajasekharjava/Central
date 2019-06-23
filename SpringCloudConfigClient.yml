@@ -6,4 +6,5 @@ spring:
       password: Raja@1234
       uri: http://localhost:8888
       username: Raja
-  message: Hello Raja
+ 
+ test.message: Hello Raja
